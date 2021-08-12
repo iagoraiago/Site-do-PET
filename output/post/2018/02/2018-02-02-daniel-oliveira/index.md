@@ -10,8 +10,6 @@ Ingresso na UFBA:  2016.1 Ingresso no PET: Fevereiro de 2018 E-mail: [danielrm
 
 [](http://gmail.com/)Participação em outras entidades: CAEEL e EletroJr
 
- 
-
 - Atividades lideradas:
 
 Gestão de Conhecimento (2018.2) Centro Acadêmico de Engenharia Elétrica – CAEEL (2018.2)

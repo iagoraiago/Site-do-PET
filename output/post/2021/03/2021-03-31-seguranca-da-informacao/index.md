@@ -41,8 +41,6 @@ Evita que a informação enviada seja lida por terceiros, refere-se à privacida
 
 Garante que um transmissor não pode negar o envio de uma informação, assim como um receptor não pode negar seu recebimento.
 
- 
-
 ## Políticas de segurança
 
 Documentação de cumprimento obrigatório pelos membros da empresa a qual apresenta os aspectos que garantem a segurança da organização. Estes estão subdivididos em:
@@ -59,19 +57,15 @@ Associa-se às propriedades lógicas do sistema, responsável pela segurança do
 
 Indica o monitoramento parcial ou total do acesso dos colaboradores da empresa aos sistemas da organização, estabelecendo restrições de uso para determinadas informações e sites, por exemplo. Ressalta-se que esse monitoramento não é considerado ilegal se estiver previsto na política de segurança da organização.
 
- 
-
 ![Data center](images/seg8.jpg)
 
 _Data center_
-
- 
 
 ## Ferramentas de proteção
 
 #### **Antivírus**
 
-Trata-se de uma ferramenta que permite o rastreamento e o combate às principais pragas virtuais, conhecidas como _malwares_. Ou seja, apesar do que seu nome indica, os antivírus não protegem a máquina somente contra os vírus. Ao realizar a sua instalação, um banco de dados é criado dentro do qual há o cadastro de um certo número de pragas virtuais, somente ocorrerá a detecção desses _softwares_ malignos catalogados. Normalmente, com a atualização do programa, o catálogo é aumentado e mais códigos maliciosos podem ser combatidos, aumentando a segurança do sistema. 
+Trata-se de uma ferramenta que permite o rastreamento e o combate às principais pragas virtuais, conhecidas como _malwares_. Ou seja, apesar do que seu nome indica, os antivírus não protegem a máquina somente contra os vírus. Ao realizar a sua instalação, um banco de dados é criado dentro do qual há o cadastro de um certo número de pragas virtuais, somente ocorrerá a detecção desses _softwares_ malignos catalogados. Normalmente, com a atualização do programa, o catálogo é aumentado e mais códigos maliciosos podem ser combatidos, aumentando a segurança do sistema.
 
 A detecção de _malwares_ é feita a partir da análise comportamental do sistema. Desse modo, ao executar um arquivo, o antivírus faz uma análise da sua rotina e, caso detecte que seu comportamento está diferente do esperado, há o bloqueio de sua execução e de sua propagação pelo computador.
 
@@ -81,13 +75,9 @@ O _firewall_ é um mecanismo que contribui para a proteção do computador e con
 
 Com isso, o _firewall_ não deve ser confundido com o antivírus uma vez que ele não consegue detectar e combater um software maligno diretamente. Porém, um _firewall_ pode impedir a entrada de uma praga virtual de maneira indireta, evitando a entrada de um arquivo que esteja infectado caso esse se encaixe nas regras estabelecidas para a filtragem. A configuração mais indicada para essa ferramenta consiste no bloqueio do conteúdo de entrada e liberação de conexões específicas de saída.
 
- 
-
 ![Antivírus e firewall](images/seg2.png)
 
 Ferramentas de proteção
-
- 
 
 ## _Malwares_
 
@@ -121,13 +111,9 @@ Antes de tratar sobre o _spyware_, é importante explicar o conceito de _cookies
 
 O _keylogger_ é um _malware_ capaz de capturar, armazenar as teclas digitadas pelo usuário no teclado do computador e enviá-las para o criador da praga virtual. Esse recurso normalmente é usado para a obtenção de senhas enquanto os internautas navegam por sites de comércio eletrônico ou internet _banking_. Após os ataques através do _keylogger_ se tornarem cada vez mais frequentes, muitos sites de comércio online começaram a fazer uso de um teclado virtual mostrado na tela onde a senha é inserida a partir dos cliques com o mouse. Porém, foi desenvolvida uma forma de vulnerabilizar esse sistema através do _screenlogger_, capaz de armazenar através de _prints_ na tela a posição do cursor e a tela apresentada quando o mouse é clicado e enviar as imagens para o dono desse _malware_; obtendo, com isso, a senha do usuário. Outra praga virtual análoga é o _weblogger, o_ qual permite que o _cracker_ acesse a _webcam_ do computador e possa filmar o conteúdo exibido, invadindo a privacidade do usuário.
 
- 
-
 ![Teclado virtual do banco para colocar senha.](images/seg6.png)
 
 Teclado virtual
-
- 
 
 #### **_Adware_**
 
@@ -141,19 +127,15 @@ O _hijacker_ atua nos navegadores com a modificação da página inicial e a sua
 
 O _rootkit_ pode ser definido como um conjunto de _softwares_ e técnicas que permite esconder e assegurar a presença de um invasor ou código suspeito em um computador comprometido. Pode ser usado para instalar programas maliciosos, como o _backdoor_, assegurando o acesso futuro à máquina, para esconder atividades e informações, arquivos, diretórios, processos, chaves de registro, conexões de rede, entre outros. Esse apagamento de arquivos inclui relatórios gerados pelo servidor com a intenção de dificultar a detecção desse _malware_.
 
-O _backdoor_ e o _rootkit_ são inseridos por um _cracker_ através da execução de um programa malicioso, exploram as vulnerabilidades da máquina e criam condições para o retorno do criminoso. Porém, apesar das semelhanças, somente o _rootkit_ altera e remove arquivos e promove a instalação de outros _softwares_ ou arquivos de procedência duvidosa. 
+O _backdoor_ e o _rootkit_ são inseridos por um _cracker_ através da execução de um programa malicioso, exploram as vulnerabilidades da máquina e criam condições para o retorno do criminoso. Porém, apesar das semelhanças, somente o _rootkit_ altera e remove arquivos e promove a instalação de outros _softwares_ ou arquivos de procedência duvidosa.
 
 #### **_Ransomware_**
 
 O _ransomware_ é um código malicioso que remove o acesso aos dados armazenados em uma máquina. Para isso, ele normalmente criptografa a maioria (ou todos) os arquivos do computador e exige a realização de um pagamento para que o usuário possa recuperar o acesso. Uma importante maneira de prevenção contra esse _malware_ consiste em fazer atualizações frequentes no _backup_, sobretudo dos arquivos mais relevantes.
 
- 
-
 ![Tipos de pragas virtuais.](images/seg7.jpg)
 
 Tipos de _Malwares_
-
- 
 
 ## Golpes e ataques virtuais
 
@@ -169,13 +151,9 @@ O _pharming_ pode ser considerado um tipo específico de _phishing_ envolvendo o
 
 A técnica _DOS_ se baseia na negação de um serviço e ocorre quando um atacante usa uma máquina para tirar de operação um serviço, um computador ou uma rede conectada à internet. Quando esse ataque é feito de forma coordenada e distribuída ao longo de um conjunto de computadores, trata-se de do _DDOS_. Esse consiste no ataque simultâneo por muitas máquinas sobre controle do invasor.
 
- 
-
 ![Golpes e ataques virtuais.](images/seg4.jpg)
 
 Golpes e ataques virtuais
-
- 
 
 ## Conclusão
 
@@ -183,23 +161,6 @@ Portanto, é perceptível a importância da preocupação com a segurança de da
 
 ## Referências
 
-GRAN cursos Online. _In_: **Gran cursos Online**. \[_S. l._\], 2018. Disponível em: https://www.grancursosonline.com.br/. Acesso em: 5 fev. 2021.
+GRAN cursos Online. _In_: **Gran cursos Online**. \[_S. l._\], 2018. Disponível em: <https://www.grancursosonline.com.br/>. Acesso em: 5 fev. 2021.
 
-A ENGENHARIA para enganar pessoas. \[_S. l._\], 23 dez. 2013. Disponível em: https://www.kaspersky.com.br/blog/engenharia-social-hackeando-humanos/1845/. Acesso em: 23 mar. 2021.
-
- 
-
-/\* Bio Autor Box \*/<br /> .autorbox {<br /> position: relative;<br /> margin: 20px auto;<br /> border: 10px solid #011689; /\*cor da borda do box\*/<br /> padding: 5px;<br /> border-radius:10px;<br /> -webkit-transition: all 0.3s ease-in;<br /> -moz-transition: all 0.3s ease-in;<br /> -ms-transition: all 0.3s ease-in;<br /> -o-transition: all 0.3s ease-in;<br /> transition: all 0.3s ease-in;<br /> }<br /> .autorbox:hover {<br /> border: 10px solid #010b45; /\*cor da borda do box hover\*/<br /> -webkit-transition: all 0.3s ease-in;<br /> -moz-transition: all 0.3s ease-in;<br /> -ms-transition: all 0.3s ease-in;<br /> -o-transition: all 0.3s ease-in;<br /> transition: all 0.3s ease-in;<br /> }<br /> .autoravatar {<br /> background: #fff;<br /> border: 1px solid #ccc9bd; /\*cor da borda do avatar\*/<br /> float: left;<br /> height: 100px;<br /> padding: 2px;<br /> position: relative;<br /> -webkit-border-radius: 4px;<br /> -moz-border-radius: 4px;<br /> border-radius: 4px;<br /> -webkit-box-shadow: 0 0 4px 0 #d9d9d9;<br /> -moz-box-shadow: 0 0 4px 0 #d9d9d9;<br /> box-shadow: 0 0 4px 0 #d9d9d9;<br /> width: 100px;<br /> }<br /> .autoravatar img {<br /> height: 100px;<br /> width: 100px;<br /> }<br /> .autorcontent {<br /> margin-left: 120px;<br /> }<br /> .autorhead {<br /> border-bottom: 1px solid #ddd;<br /> margin-bottom: 12px;<br /> padding: 0 160px 5px 0;<br /> position: relative;<br /> }<br /> .autorbox h3 {<br /> font-family: Arial, Verdana, georgia, serif;<br /> color: #3399bb; /\*cor da fonte do nome do autor\*/<br /> font-size: 24px;<br /> font-weight: bold;<br /> line-height: 30px;<br /> margin: 0;<br /> border: none;<br /> text-transform:uppercase;<br /> text-decoration: none;<br /> -webkit-transition: all 0.2s ease-in-out;<br /> -moz-transition: all 0.2s ease-in-out;<br /> -ms-transition: all 0.2s ease-in-out;<br /> -o-transition: all 0.2s ease-in-out;<br /> transition: all 0.2s ease-in-out;<br /> }<br /> .autorbox h3:hover {<br /> color: #010b45; /\*cor da fonte do nome do autor com mouse em cima\*/<br /> -webkit-transition: all 0.2s ease-in-out;<br /> -moz-transition: all 0.2s ease-in-out;<br /> -ms-transition: all 0.2s ease-in-out;<br /> -o-transition: all 0.2s ease-in-out;<br /> transition: all 0.2s ease-in-out;<br /> }<br /> .autorbox h3 a {<br /> color: #011689!important; /\*cor da fonte do nome do autor\*/<br /> text-decoration: none;<br /> -webkit-transition: all 0.2s ease-in-out;<br /> -moz-transition: all 0.2s ease-in-out;<br /> -ms-transition: all 0.2s ease-in-out;<br /> -o-transition: all 0.2s ease-in-out;<br /> transition: all 0.2s ease-in-out;<br /> }<br /> .autorbox h3 a:hover {<br /> color: #0b5b94!important; /\*cor da fonte do nome do autor com mouse em cima\*/<br /> -webkit-transition: all 0.2s ease-in-out;<br /> -moz-transition: all 0.2s ease-in-out;<br /> -ms-transition: all 0.2s ease-in-out;<br /> -o-transition: all 0.2s ease-in-out;<br /> transition: all 0.2s ease-in-out;<br /> }<br /> .autorsocial {<br /> list-style: none;<br /> margin: 0;<br /> padding: 0;<br /> position: absolute;<br /> top: 2px;<br /> right: 0;<br /> }<br /> .autorsocial li {<br /> float: left;<br /> margin-right: 4px;<br /> padding: 0;<br /> }<br /> .autorsocial li a {<br /> display:block;<br /> width:32px;<br /> height:32px;<br /> margin:0 2px;<br /> background:transparent url(http://3.bp.blogspot.com/-atvhxnn9xVI/UKXReUQS5UI/AAAAAAAAAM4/b--qqw3W49s/s1600/bg\_sprites2.png) no-repeat;<br /> text-indent:-9000px;<br /> position: relative;<br /> overflow:hidden;<br /> }<br /> .autorsocial li a.autorFacebook {<br /> background-position: 0 0;<br /> }<br /> .autorsocial li a.autorGooglePlus {<br /> background-position: 0 -32px;<br /> }<br /> .autorsocial li a.autorTwitter {<br /> background-position: -64px -32px;<br /> }<br /> .autorsocial li a.autorLinkedin{<br /> background-position: -64px 0px;<br /> }<br /> .autorsocial li a.autorLinkedin:hover {<br /> background-position: -96px 0px;<br /> }<br /> .autorsocial li a.autorFacebook:hover {<br /> background-position:-32px 0;<br /> }<br /> .autorsocial li a.autorGooglePlus:hover {<br /> background-position: -32px -32px;<br /> }<br /> .autorsocial li a.autorTwitter:hover {<br /> background-position: -96px -32px;<br /> }<br /> .autorbox p.bio {<br /> font-family: 'lucida sans unicode', 'lucida grande', sans-serif;<br /> font-size: 12px;<br /> line-height: 18px;<br /> }</p>
-
-![Rafael Short](images/WhatsApp-Image-2019-10-06-at-19.16.08.jpeg)
-
-### [Rafael Short](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever texos, ouvir músicas e aprender novos idiomas.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
+A ENGENHARIA para enganar pessoas. \[_S. l._\], 23 dez. 2013. Disponível em: <https://www.kaspersky.com.br/blog/engenharia-social-hackeando-humanos/1845/>. Acesso em: 23 mar. 2021.

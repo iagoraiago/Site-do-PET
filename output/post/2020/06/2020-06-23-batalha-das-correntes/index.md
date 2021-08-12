@@ -25,7 +25,9 @@ O projeto era descrito por Edison como simples e seguro e o seu funcionamento se
 
 Com tantos aspectos positivos, Edison atraiu muitos investimentos para sua companhia elétrica, a _Edison Electric_. Por conseguinte, em 4 de Setembro de 1882, foi inaugurada a primeira usina de energia elétrica do mundo. Ela ficava na cidade de Manhattan e se chamou Estação _Pearl Street_. Os investidores confiavam tanto na ideia do renomado inventor que, em menos de 2 anos, ele conseguiu construir mais 18 novas usinas espalhadas pelos Estados Unidos.
 
-A crescente construção de usinas soava como um triunfo para Edison, mas elas vieram acompanhadas por uma problemática: o alcance do seu fornecimento energético. Elas só permitiam a iluminação dos ambientes a um raio de cerca de 800 metros. Isso fez com que só pudessem ser construídas nas regiões com alta densidade populacional para serem viáveis economicamente. Desse modo, muitas regiões mais isoladas não tiveram acesso a essa fonte de energia.![](images/bdc3.jpg)
+A crescente construção de usinas soava como um triunfo para Edison, mas elas vieram acompanhadas por uma problemática: o alcance do seu fornecimento energético. Elas só permitiam a iluminação dos ambientes a um raio de cerca de 800 metros. Isso fez com que só pudessem ser construídas nas regiões com alta densidade populacional para serem viáveis economicamente. Desse modo, muitas regiões mais isoladas não tiveram acesso a essa fonte de energia.
+
+![](images/bdc3.jpg)
 
 Estação Pearl Street - Ilustração de Hackaday
 
@@ -119,26 +121,6 @@ BATALHA das correntes. Direção: Alfonso Gomez-Rejon. \[_S. l._: _s. n._\], 201
 
 25 jan. 2017. Ilustração. Disponível em: https://hackaday.com/2017/01/25/tesla-vs-edison/. Acesso em: 1 jun. 2020.
 
-/\* Bio Autor Box \*/ .autorbox { position: relative; margin: 20px auto; border: 10px solid #011689; /\*cor da borda do box\*/ padding: 5px; border-radius:10px; -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; } .autorbox:hover { border: 10px solid #010b45; /\*cor da borda do box hover\*/ -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; } .autoravatar { background: #fff; border: 1px solid #ccc9bd; /\*cor da borda do avatar\*/ float: left; height: 100px; padding: 2px; position: relative; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: 0 0 4px 0 #d9d9d9; -moz-box-shadow: 0 0 4px 0 #d9d9d9; box-shadow: 0 0 4px 0 #d9d9d9; width: 100px; } .autoravatar img { height: 100px; width: 100px; } .autorcontent { margin-left: 120px; } .autorhead { border-bottom: 1px solid #ddd; margin-bottom: 12px; padding: 0 160px 5px 0; position: relative; } .autorbox h3 { font-family: Arial, Verdana, georgia, serif; color: #3399bb; /\*cor da fonte do nome do autor\*/ font-size: 24px; font-weight: bold; line-height: 30px; margin: 0; border: none; text-transform:uppercase; text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3:hover { color: #010b45; /\*cor da fonte do nome do autor com mouse em cima\*/ -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3 a { color: #011689!important; /\*cor da fonte do nome do autor\*/ text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3 a:hover { color: #0b5b94!important; /\*cor da fonte do nome do autor com mouse em cima\*/ -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorsocial { list-style: none; margin: 0; padding: 0; position: absolute; top: 2px; right: 0; } .autorsocial li { float: left; margin-right: 4px; padding: 0; } .autorsocial li a { display:block; width:32px; height:32px; margin:0 2px; background:transparent url(http://3.bp.blogspot.com/-atvhxnn9xVI/UKXReUQS5UI/AAAAAAAAAM4/b--qqw3W49s/s1600/bg\_sprites2.png) no-repeat; text-indent:-9000px; position: relative; overflow:hidden; } .autorsocial li a.autorFacebook { background-position: 0 0; } .autorsocial li a.autorGooglePlus { background-position: 0 -32px; } .autorsocial li a.autorTwitter { background-position: -64px -32px; } .autorsocial li a.autorLinkedin{ background-position: -64px 0px; } .autorsocial li a.autorLinkedin:hover { background-position: -96px 0px; } .autorsocial li a.autorFacebook:hover { background-position:-32px 0; } .autorsocial li a.autorGooglePlus:hover { background-position: -32px -32px; } .autorsocial li a.autorTwitter:hover { background-position: -96px -32px; } .autorbox p.bio { font-family: 'lucida sans unicode', 'lucida grande', sans-serif; font-size: 12px; line-height: 18px; }
-
-![Rafael Short](http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-06-at-19.16.08.jpeg)
-
-### [Rafael Short](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever texos, ouvir músicas e aprender novos idiomas.
-
-  
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
-
-* * *
-
 ### Quer ficar ligado nos nossos novos artigos?
 
 Cadastre-se para não perder mais!
-
-\[sibwp\_form id=2\]

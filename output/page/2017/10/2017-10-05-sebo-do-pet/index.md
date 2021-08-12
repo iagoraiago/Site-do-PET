@@ -5,8 +5,6 @@ date: "2017-10-05"
 
 Esses são os livros à venda no nosso sebo:
 
- 
-
 ## **A-**
 
 **Aluísio Azevedo**
@@ -55,15 +53,11 @@ Mergulho no hiperespaço
 
 A dieta de South Beach
 
- 
-
 ## **B-**
 
 **Brian Weiss**
 
 Os espelhos do tempo
-
- 
 
 ## **C-**
 
@@ -103,8 +97,6 @@ O ouro
 
 Os chineses
 
- 
-
 ## **D-**
 
 **Dan Brown**
@@ -127,8 +119,6 @@ Dossiê de sangue
 
 Mulher no escuro
 
- 
-
 ## **E-**
 
 **Elias José**
@@ -142,8 +132,6 @@ Amor adolescente
 **Érico Veríssimo**
 
 Clarissa
-
- 
 
 ## **G-**
 
@@ -171,8 +159,6 @@ Direito e legislação
 
 As memórias do livro
 
- 
-
 ## **H-**
 
 **Harold Robbins**
@@ -182,8 +168,6 @@ Os insaciáveis
 **Hugh Laurie**
 
 O vendedor de armas
-
- 
 
 ## **J-**
 
@@ -215,8 +199,6 @@ Passagem para Ravena
 
 A chave do tesouro
 
- 
-
 ## **K-**
 
 **Karl Marx**
@@ -226,8 +208,6 @@ Liberdade de imprensa
 **Karen Gravelle/Jennifer Gravelle**
 
 Não se incomode
-
- 
 
 ## **L-**
 
@@ -250,8 +230,6 @@ Fallen
 **Luiz Antônio Aguiar**
 
 Machado e Juca
-
- 
 
 ## **M-**
 
@@ -311,8 +289,6 @@ Romance - Fundamento Bíblico
 
 Uma luz no Horizonte
 
- 
-
 ## **N-**
 
 **Nietzsche**
@@ -320,8 +296,6 @@ Uma luz no Horizonte
 Crepúsculo dos ídolos
 
 O nascimento da tragédia
-
- 
 
 ## **O-**
 
@@ -336,8 +310,6 @@ Os melhores contos de O.Henry
 **Ovídio**
 
 A arte de amar
-
- 
 
 ## **P-**
 
@@ -393,8 +365,6 @@ Terramarear
 
 Uólace e João Victor
 
- 
-
 ## **S-**
 
 **Seicho Taniguchi**
@@ -409,8 +379,6 @@ Eclipse
 
 A vida é um palco
 
- 
-
 ## **T-**
 
 **Therezinha Oliveira**
@@ -424,8 +392,6 @@ Segredos de agenda
 **Psicografia de Tanya Oliveira pelo Espírito Eugene**
 
 A sombra de uma paixão
-
- 
 
 ## **V-**
 

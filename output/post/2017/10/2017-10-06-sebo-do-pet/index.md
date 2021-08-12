@@ -8,4 +8,4 @@ coverImage: "seboslide.jpg"
 
 Conheça nosso sebo!
 
-\[ap\_button button\_size="ap-large-bttn" button\_url="http://www.peteletrica.eng.ufba.br/2017/sebo-do-pet/"  button\_type="ap-outline-bttn" button\_color="ap-white-bttn" button\_align="ap-align-none"\]Veja os livros disponíveis\[/ap\_button\]
+"http://www.peteletrica.eng.ufba.br/2017/sebo-do-pet/" Veja os livros disponíveis

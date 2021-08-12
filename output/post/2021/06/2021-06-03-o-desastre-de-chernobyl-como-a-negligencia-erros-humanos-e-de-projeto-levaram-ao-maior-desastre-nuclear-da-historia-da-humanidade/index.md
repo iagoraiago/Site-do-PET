@@ -11,27 +11,19 @@ tags:
 coverImage: "chernobyl4.jpg"
 ---
 
-O desastre de Chernobyl é considerado o maior acidente nuclear da história da humanidade e as suas consequências se estendem mesmo 35 anos após o ocorrido. Os resultados do desastre vão desde consequências diretas como lugares inabitados por conta da radiação, a impactos indiretos como o fortalecimento de movimentos anti-nucleares. 
+O desastre de Chernobyl é considerado o maior acidente nuclear da história da humanidade e as suas consequências se estendem mesmo 35 anos após o ocorrido. Os resultados do desastre vão desde consequências diretas como lugares inabitados por conta da radiação, a impactos indiretos como o fortalecimento de movimentos anti-nucleares.
 
 A Central Nuclear operava com quatro reatores capazes de gerar até 1000MW que alimentavam, cada um, dois geradores de energia elétrica. Os reatores que compõem a usina são do tipo RBMK (_Reaktor Bolshoy Moshchnosty Kanalnyy_**)** ou Reator Canalizado de Alta Potência devido, sobretudo, aos seus canais pressurizados. Com um plano inovador para a época, derivado de projetos antecessores os quais tinham como objetivo a criação de uma arma nuclear, os reatores eram refrigerados à água com canaletas individuais de combustível passando por dentro de blocos de grafite que, além de moderadores, atuavam como elementos estruturais do núcleo.
-
- 
 
 ![Geradores de energia elétrica da usina nuclear de Chernobyl](images/chernobyl0.png)
 
 Geradores de energia elétrica da usina nuclear de Chernobyl
 
- 
-
 ## O teste que infringiu protocolos de segurança, demonstrou erros de projeto e sucedeu a tragédia
-
- 
 
 ![Sala de controle do reator de Chernobyl](images/chernobyl1.png)
 
 Sala de controle do 4º reator da Usina Nuclear de Chernobyl
-
- 
 
 No dia 26 de Abril de 1986, uma manutenção de rotina estava agendada para acontecer na unidade 4 da Central Nuclear Lênin de Chernobyl e os engenheiros aproveitaram a ocasião para realizar uma manobra de testes. Com isso, o equipamento foi submetido a um procedimento capaz de simular a falta de energia na estação e os sistemas de segurança de emergência e regulagem foram desligados intencionalmente. Esse teste expôs uma sequência de falhas as quais incluíam desde incoerências no projeto do reator até indícios de que os operadores da usina infringiram protocolos de segurança, como a utilização de poucas hastes de controle e a inativação do sistema de desligamento automático do reator em caso de baixo nível de água. Além disso, o Relatório INSAG-7 (1992) do Grupo Consultivo de Segurança Nuclear Internacional registrou que dentre as principais causas do desastre encontravam-se peculiaridades físicas desconhecidas pelos operadores e construtores.
 
@@ -43,39 +35,27 @@ Desde 1982, três testes anteriores haviam sido executados com intuito de criar 
 
 “O equívoco da prática de transferir funções de proteção de emergência para o operador humano, devido à falta de recursos de segurança de engenharia adequados, foi elevado pelo próprio acidente: a combinação de deficiências de projeto e a confiabilidade não total dos operadores humanos ocasionou o desastre .” _- INSAG-7: The Chernobyl Accident: Updating of INSAG-1_ (Traduzido do Inglês)
 
- 
-
 ## O pós desastre e os impactos do acidente na aceitação da tecnologia nuclear
 
 O anúncio oficial tardio do acidente para o público demonstra também o descuido e a negligência, expondo mais pessoas ao risco e agravando a situação de emergência. O atraso se deu principalmente por motivos políticos, pois os soviéticos estavam inseridos no contexto da Guerra Fria e um acidente com tal magnitude colocaria em risco a soberania deles e aumentaria o preconceito referente às tecnologias nucleares. Por causa disso, os soviéticos, inicialmente, fizeram um anúncio minimizando a gravidade do ocorrido, mas por causa das proporções do acidente não foi possível esconder os danos reais.
 
 Como consequência direta do desastre, a União Soviética registrou oficialmente 31 mortes como resultado imediato e é estimado pela _World Health Organisation_ um número de 9 mil mortes indiretas causadas até o ano de 2005. Além disso, houve o surgimento da zona de exclusão de Chernobyl a qual recebe esse nome por ser a região ao redor do reator com raio de até 30 km onde o índice de radiação elevado tornou a área praticamente inabitada, exceto pela pequena população de Samosely que vem diminuindo ao longo do tempo.
 
- 
-
 ![Cidade de Chernobyl atualmente](images/chernobyl2.png)
 
 Cidade de Chernobyl após o acidente
-
- 
 
 Com o ocorrido em Chernobyl, os outros acidentes nucleares, como os de Tokaimura em 1999 e Fukushima em 2011, e o seu potencial altamente destrutivo, quando utilizado para fins bélicos, a aceitação e o apoio para o desenvolvimento da tecnologia nuclear têm sido enfraquecidos internacionalmente.
 
 Outrossim, a amostra de dados abaixo, publicados pelo _World Nuclear Association’s Reactor Database,_ demonstra que, 32 anos antes do acidente de Chernobyl, 409 reatores foram abertos, mas apenas 194 foram  mantidos nas três décadas posteriores.
 
- 
-
 ![Dados da pesquisa feita pela World Nuclear Association’s Reactor Database](images/chernobyl3.png)
 
 Dados da pesquisa feita pela _World Nuclear Association’s Reactor Database_
 
- 
-
 ## Energia nuclear: uma alternativa promissora marcada por tragédias recentes
 
 Entretanto, ressalta-se que as usinas nucleares oferecem um importante potencial energético, sendo possivelmente uma das melhores alternativas para substituir as fontes não limpas de energia por conta, sobretudo, da abundância do urânio (elemento essencial na produção da energia nuclear) e da não utilização de combustíveis fósseis, ou seja, não há emissão de gases que contribuem com o aquecimento global. Além disso, não há a dependência das condições climáticas e uma significativa redução de custos quando comparada a outras alternativas energéticas. Assim, desde que operadas com o rigor e competência necessários para garantir a segurança das pessoas envolvidas no processo, a energia nuclear é uma alternativa viável. Por fim, o desastre de Chernobyl deve servir como alerta para não se negligenciar e tolerar erros e falhas em nenhum estágio de um projeto ou tecnologia, principalmente quando há o risco à integridade física dos envolvidos.
-
- 
 
 ## Referências
 
@@ -85,64 +65,4 @@ CHERNOBYL DISASTER. Disponível em: <[https://en.wikipedia.org/wiki/Chernobyl\_d
 
 INTERNATIONAL NUCLEAR SAFETY ADVISORY GROUP, The Chernobyl Accident: Updating of INSAG-1, INSAG-7, IAEA, Vienna (1992).
 
-WHAT was the death toll from Chernobyl and Fukushima?. \[_S. l._\], 24 jul. 2017. Disponível em: https://ourworldindata.org/what-was-the-death-toll-from-chernobyl-and-fukushima. Acesso em: 1 jun. 2021.
-
- 
-
-![Joelton Junior](images/joelton.jpg)
-
-### [Joelton Junior](http://www.peteletrica.eng.ufba.br/2017/joelton-junior/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Acredito no potencial da ciência de construir um mundo melhor para os humanos.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/joelton-junior/)
-
- 
-
-![Elder Pereira](images/elder.jpg)
-
-### [Elder Pereira](http://www.peteletrica.eng.ufba.br/2017/elder-pereira/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Eu sou Elder Pereira, graduando do curso de Engenharia Elétrica. Sou um cara hidratado que gosta de viajar, assistir boas series e que ama aprender novas tecnologias.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/elder-pereira/)
-
- 
-
-![Breno Amin](images/breno01.jpg)
-
-### [Breno Amin](http://www.peteletrica.eng.ufba.br/2017/breno-amin/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Olá, eu sou Breno Amin Matos Gomes, graduando do curso Engenharia Elétrica da UFBA. Um amante de ciências e tecnologias, fã de esportes nas horas vagas e um curioso pelo novo do mundo...
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/breno-amin/)
-
- 
-
-![Rafael Short](images/WhatsApp-Image-2019-10-06-at-19.16.08.jpeg)
-
-### [Rafael Short](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever textos, ouvir músicas e aprender novos idiomas.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
+WHAT was the death toll from Chernobyl and Fukushima?. \[_S. l._\], 24 jul. 2017. Disponível em: <https://ourworldindata.org/what-was-the-death-toll-from-chernobyl-and-fukushima>. Acesso em: 1 jun. 2021.

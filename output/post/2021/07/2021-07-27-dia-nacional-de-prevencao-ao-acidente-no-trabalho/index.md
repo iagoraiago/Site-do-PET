@@ -11,7 +11,7 @@ tags:
 coverImage: "post_ca_seguranca.jpg"
 ---
 
-Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), foi constatado que o Brasil, em 2020, possuía 30,6 milhões de trabalhadores com carteira assinada. Nas suas rotinas de trabalho, esses empregados formais estão frequentemente sujeitos a acidentes, assim como aqueles que não apresentam carteira assinada. 
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), foi constatado que o Brasil, em 2020, possuía 30,6 milhões de trabalhadores com carteira assinada. Nas suas rotinas de trabalho, esses empregados formais estão frequentemente sujeitos a acidentes, assim como aqueles que não apresentam carteira assinada.
 
 Olhando o [**Anuário Brasileiro de Proteção de 2020**](https://bc.pressmatrix.com/pt-BR/profiles/1227998e328d/editions/eb4f7f53ec03ef6991cf), que analisa dados a respeito de saúde e segurança do trabalho no mundo, é notado que o Brasil ocupa a 3° posição mundial no ranking de número absoluto de mortes por acidente de trabalho. Além disso, encontra-se na 5° posição no que tange a acidentes não fatais no mundo, com o número absoluto de 549.405 de acidentes. Apesar desses dados serem alarmantes, deve ser ressaltado que o Brasil possui uma das maiores populações do mundo, acima de 213 milhões de habitantes (fonte: IBGE), aumentando o número de indivíduos expostos a esses acontecimentos. Por isso, quando se analisa a quantidade de acidentes por 100.000 trabalhadores, a posição brasileira cai para 43° no ranking mundial. Contudo, ainda se tem um número enorme de pessoas acidentadas e mortas no país.
 
@@ -19,7 +19,7 @@ Por isso, refletir sobre as condições de trabalho a que são submetidas essas 
 
 ## História
 
-A presença dessa data no calendário comemorativo demonstra a preocupação com as condições dos trabalhadores do país. Essa medida foi adotada num período onde havia um índice de acidentes laborais muito elevado para a época. Por causa disso, o Banco Mundial anunciou que cortaria os financiamentos para o país caso o panorama não fosse alterado. Com isso, o ministro Júlio Barata publicou portarias que exigiam que serviços de medicina e segurança do trabalho fossem adotados nas empresas. Então, em 27 de julho de 1972, foi determinado que as empresas com mais de 100 funcionários deveriam ter o Serviço Obrigatório de Segurança e Medicina no Trabalho. Por conseguinte, houve a garantia de uma série de procedimentos padrões que visavam a manutenção do ambiente e das atividades, com a finalidade de resguardar as pessoas. 
+A presença dessa data no calendário comemorativo demonstra a preocupação com as condições dos trabalhadores do país. Essa medida foi adotada num período onde havia um índice de acidentes laborais muito elevado para a época. Por causa disso, o Banco Mundial anunciou que cortaria os financiamentos para o país caso o panorama não fosse alterado. Com isso, o ministro Júlio Barata publicou portarias que exigiam que serviços de medicina e segurança do trabalho fossem adotados nas empresas. Então, em 27 de julho de 1972, foi determinado que as empresas com mais de 100 funcionários deveriam ter o Serviço Obrigatório de Segurança e Medicina no Trabalho. Por conseguinte, houve a garantia de uma série de procedimentos padrões que visavam a manutenção do ambiente e das atividades, com a finalidade de resguardar as pessoas.
 
 ## Normas Regulamentadoras
 
@@ -76,7 +76,7 @@ Como apresentado acima, cada Norma Regulamentadora estabelece condições de tra
 
 - **Medidas de Proteção Individual:** Neste tópico são indicados os métodos de proteção individual para os trabalhadores envolvidos com eletricidade. Essas medidas são adotadas quando as ações coletivas não são suficientes para controlar os riscos.
 
-- **Segurança em Projetos:** Os projetos elétricos das instalações, segundo a NR 10, devem seguir um padrão técnico a fim de garantir a segurança em casos de manutenção e intervenções. 
+- **Segurança em Projetos:** Os projetos elétricos das instalações, segundo a NR 10, devem seguir um padrão técnico a fim de garantir a segurança em casos de manutenção e intervenções.
 
 - **Segurança em Instalações Elétricas Desenergizadas:** A NR- 10 neste tópico, define quais condições necessárias para a desenergização de uma instalação quando devem ser executadas intervenções sobre elas.
 
@@ -90,25 +90,10 @@ Essas disposições, quando analisadas na própria NR-10, possuem diversos detal
 
 SECRETARIA DE TRABALHO. **Normas Regulamentadoras - NR**. \[S. l.\], 2021. Disponível em: https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs. Acesso em: 21 jul. 2021.
 
-ANUÁRIO Brasileiro de Proteção 2020. **Revista Proteção Digital**, \[_s. l._\], 2020. Disponível em: https://bc.pressmatrix.com/pt-BR/profiles/1227998e328d/editions/eb4f7f53ec03ef6991cf/pages. Acesso em: 21 jul. 2021.
+ANUÁRIO Brasileiro de Proteção 2020. **Revista Proteção Digital**, \[_s. l._\], 2020. Disponível em: <https://bc.pressmatrix.com/pt-BR/profiles/1227998e328d/editions/eb4f7f53ec03ef6991cf/pages>. Acesso em: 21 jul. 2021.
 
-ANAMT. **27 de julho: Dia Nacional da Prevenção ao Acidente de Trabalho**. \[_S. l._\], 2020. Disponível em: https://www.anamt.org.br/portal/2020/07/27/27-de-julho-dia-nacional-da-prevencao-ao-ac-de-2020/. Acesso em: 21 jul. 2021.
+ANAMT. **27 de julho: Dia Nacional da Prevenção ao Acidente de Trabalho**. \[_S. l._\], 2020. Disponível em: <https://www.anamt.org.br/portal/2020/07/27/27-de-julho-dia-nacional-da-prevencao-ao-ac-de-2020/>. Acesso em: 21 jul. 2021.
 
 SECRETARIA DE TRABALHO. **Norma Regulamentadora No. 10 (NR-10)**. In: SECRETARIA DO TRABALHO (org.). Norma Regulamentadora No. 10 (NR-10). \[S. l.\], 2021. Disponível em: https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/norma-regulamentadora-no-10-nr-10. Acesso em: 22 jul. 2021.
 
 INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Projeção Populacional**. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Projeção Populacional do Brasil. \[S. l.\], 2021. Disponível em: https://www.ibge.gov.br/apps/populacao/projecao/box\_popclock.php. Acesso em: 25 jul. 2021.
-
- 
-
-![Rafael Short](images/WhatsApp-Image-2019-10-06-at-19.16.08.jpeg)
-
-### [Rafael Short](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever textos, ouvir músicas e aprender novos idiomas.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/rafael-short/)

@@ -75,16 +75,3 @@ Comum em uma reunião uma mulher dar uma ideia, não darem bola, para depois um 
 **11\. Você já explicou em entrevistas anteriores que é física teórica e trabalha no desenvolvimento inicial de um projeto que, na prática, ainda não é possível. Como militante da causa de mulheres na ciência, já lhe ocorreu alguma ideia que colaboraria muito para a causa, mas ainda não é possível pôr em prática?**
 
 **Marcia:** Eliminar o viés inconsciente. Viés inconsciente é o que leva  em uma seleção se escolher um homem mesmo tendo um CV pior. Viés inconsciente é o que leva professores chamarem meninos de gênios e meninas de esforçadas quando os dois tem o mesmo desempenho. Eliminar  os  corredores rosa nas lojas de brinquedo. Os brinquedos deveriam ser para todos e todas.
-
-![Nathane](images/20180228_132107-1.jpg)
-
-### [Nathane Lima](http://www.peteletrica.eng.ufba.br/2017/nathane-lima/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Nathane é estudante de Engenharia Elétrica, gosta de literatura e arte e ama animais.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/nathane-lima/)

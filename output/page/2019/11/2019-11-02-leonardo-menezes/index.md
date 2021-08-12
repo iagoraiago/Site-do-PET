@@ -8,8 +8,6 @@ Ingresso na UFBA: 2016.1 Ingresso no PET: Fevereiro de 2018 E-mail: [xleonardo\_
 
 [](http://gmail.com/)Participação em outras entidades: CAEEL.
 
- 
-
 - Atividades lideradas:
 
 Pet Status (2018.2)

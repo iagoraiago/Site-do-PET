@@ -23,6 +23,4 @@ Crianças Hackers na mídia: [http://g1.globo.com/bahia/noticia/2015/10/criancas
 
 Vídeos de divulgação: [https://www.youtube.com/watch?v=A-nK1aGsR90](https://www.youtube.com/watch?v=A-nK1aGsR90) [https://www.youtube.com/watch?v=\_5sgjUUEaAU](https://www.youtube.com/watch?v=_5sgjUUEaAU) [https://www.youtube.com/watch?v=kYzG2-I1jLE](https://www.youtube.com/watch?v=kYzG2-I1jLE)
 
-\[gallery ids="1458,1459,1460,1461,1462,1463"\]
-
 <iframe src="https://www.youtube.com/embed/2nD5oXYpHoE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

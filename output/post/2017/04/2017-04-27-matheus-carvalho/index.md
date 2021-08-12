@@ -16,15 +16,7 @@ Vídeo aulas(2017.1 , 2017.2)
 
 Minicursos(2017.2)
 
- 
-
- 
-
- 
-
- 
-
-**• Outras atividades realizadas:** 
+**• Outras atividades realizadas:**
 
 ABC da Engenharia (2017.1 , 2017.2)
 

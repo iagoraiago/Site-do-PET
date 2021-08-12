@@ -21,8 +21,20 @@ A experiência no Capão foi incrivel! Ambas as atividades e o evento em geral f
 
 Veja mais imagens:
 
-\[ap\_slider\] \[ap\_slide caption="Grupos PET UFBA" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-10-01.jpg\[/ap\_slide\] \[ap\_slide caption="Apresentação do Painel de Instalações Elétricas" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-09-56.jpg\[/ap\_slide\] \[ap\_slide caption="Apresentação do Painel de Instalações Elétricas" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-09-51.jpg\[/ap\_slide\] \[ap\_slide caption="Eletrônica para Crianças!" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-17\_14-23-59.jpg\[/ap\_slide\] \[ap\_slide caption="Montando circuitos" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-17\_14-23-56.jpg\[/ap\_slide\] \[ap\_slide caption="Nossa equipe" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-17-14.jpg\[/ap\_slide\] \[ap\_slide caption="Troca de conhecimento entre PETs" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-16-59.jpg\[/ap\_slide\] \[ap\_slide caption="Crianças aprendendo e brincando" target="\_self"\]http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-16-38.jpg\[/ap\_slide\] \[/ap\_slider\]
+"Grupos PET UFBA" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-10-01.jpg
 
- 
+"Apresentação do Painel de Instalações Elétricas" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-09-56.jpg
+
+"Apresentação do Painel de Instalações Elétricas" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-09-51.jpg
+
+"Eletrônica para Crianças!" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-17\_14-23-59.jpg
+
+"Montando circuitos" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-17\_14-23-56.jpg
+
+"Nossa equipe" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-17-14.jpg
+
+"Troca de conhecimento entre PETs" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-16-59.jpg
+
+"Crianças aprendendo e brincando" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-16-38.jpg
 
 #FestivalDoBemViver #peteletricaufba #instalacoes #eletronica

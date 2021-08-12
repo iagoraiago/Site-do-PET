@@ -21,13 +21,12 @@ Atualmente trabalha como Engenheira de Automação Industrial Sênior da planta 
 
 Confira nossa entrevista!
 
-\[caption id="attachment\_1917" align="aligncenter" width="289"\]![](images/PMP.png) Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos\[/caption\]
+![](images/PMP.png) Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos
 
- 
 
-\[caption id="attachment\_1919" align="aligncenter" width="317"\]![](images/CAP2.0.jpg) Certificação internacional para profissionais de Automação\[/caption\]
+![](images/CAP2.0.jpg) Certificação internacional para profissionais de Automação
 
-**1\. Quais foram suas motivações para escolher essa área de atuação e buscar suas certificações internacionais?** 
+**1\. Quais foram suas motivações para escolher essa área de atuação e buscar suas certificações internacionais?**
 
 **Camila:** Eu sempre tive afinidade com matemática e tinha a certeza que iria cursar algo na área de exatas. Pensei em ir pelo lado da Ciência da Computação no início, mas por influência do meu pai acabei cursando Engenharia Elétrica. Perto de me formar no curso de graduação, comecei a minha busca por estágio e uma amiga de faculdade me indicou para um processo seletivo na Automind, uma empresa integradora que trabalha com projetos, para atuar com Automação Industrial. Minha experiência com TI durante a graduação me favoreceu na entrevista e acabei sendo contratada. Conheci o mundo da Automação Industrial, fiquei encantada, achei que era uma carreira promissora e desde então, sempre segui atuando na área. As certificações internacionais foram consequências da minha trajetória.
 
@@ -71,26 +70,6 @@ No início da minha carreira eu também enfrentei algumas dificuldades com coleg
 
 **Camila:** Recentemente eu alcancei uma meta dentro da empresa que trabalho, que foi a mudança de função e de unidade. Agora as minhas metas atuais são mais pessoais do que profissionais. Porém, para futuro, pretendo continuar estudando, talvez um Mestrado, e buscando outras certificações.
 
-/\* Bio Autor Box \*/ .autorbox { position: relative; margin: 20px auto; border: 10px solid #011689; /\*cor da borda do box\*/ padding: 5px; border-radius:10px; -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; } .autorbox:hover { border: 10px solid #010b45; /\*cor da borda do box hover\*/ -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; } .autoravatar { background: #fff; border: 1px solid #ccc9bd; /\*cor da borda do avatar\*/ float: left; height: 100px; padding: 2px; position: relative; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: 0 0 4px 0 #d9d9d9; -moz-box-shadow: 0 0 4px 0 #d9d9d9; box-shadow: 0 0 4px 0 #d9d9d9; width: 100px; } .autoravatar img { height: 100px; width: 100px; } .autorcontent { margin-left: 120px; } .autorhead { border-bottom: 1px solid #ddd; margin-bottom: 12px; padding: 0 160px 5px 0; position: relative; } .autorbox h3 { font-family: Arial, Verdana, georgia, serif; color: #3399bb; /\*cor da fonte do nome do autor\*/ font-size: 24px; font-weight: bold; line-height: 30px; margin: 0; border: none; text-transform:uppercase; text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3:hover { color: #010b45; /\*cor da fonte do nome do autor com mouse em cima\*/ -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3 a { color: #011689!important; /\*cor da fonte do nome do autor\*/ text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorbox h3 a:hover { color: #0b5b94!important; /\*cor da fonte do nome do autor com mouse em cima\*/ -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; } .autorsocial { list-style: none; margin: 0; padding: 0; position: absolute; top: 2px; right: 0; } .autorsocial li { float: left; margin-right: 4px; padding: 0; } .autorsocial li a { display:block; width:32px; height:32px; margin:0 2px; background:transparent url(http://3.bp.blogspot.com/-atvhxnn9xVI/UKXReUQS5UI/AAAAAAAAAM4/b--qqw3W49s/s1600/bg\_sprites2.png) no-repeat; text-indent:-9000px; position: relative; overflow:hidden; } .autorsocial li a.autorFacebook { background-position: 0 0; } .autorsocial li a.autorGooglePlus { background-position: 0 -32px; } .autorsocial li a.autorTwitter { background-position: -64px -32px; } .autorsocial li a.autorLinkedin{ background-position: -64px 0px; } .autorsocial li a.autorLinkedin:hover { background-position: -96px 0px; } .autorsocial li a.autorFacebook:hover { background-position:-32px 0; } .autorsocial li a.autorGooglePlus:hover { background-position: -32px -32px; } .autorsocial li a.autorTwitter:hover { background-position: -96px -32px; } .autorbox p.bio { font-family: 'lucida sans unicode', 'lucida grande', sans-serif; font-size: 12px; line-height: 18px; }
-
-![Mariana Nascimento](http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2019/11/marim.png)
-
-### [Mariana Nascimento](http://www.peteletrica.eng.ufba.br/2017/mariana-nascimento/)
-
-- [Facebook](# "Facebook")
-- [GooglePlus](# "GooglePlus")
-- [Twitter](# "Twitter")
-- [Linkedin](# "Linkedin")
-
-Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer "de tudo um pouco", pratica capoeira e estuda japonês.
-
-  
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/mariana-nascimento/)
-
-* * *
-
 ### Quer ficar ligado nos nossos novos artigos?
 
 Cadastre-se para não perder mais!
-
-\[sibwp\_form id=2\]

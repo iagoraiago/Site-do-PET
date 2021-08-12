@@ -8,4 +8,4 @@ coverImage: "Auxilio_extra_classe_bancada.jpg"
 
 #### Estamos esperando sua inscrição
 
-\[ap\_button button\_size="ap-medium-bttn" button\_url="http://taffarel55.byethost18.com/ps20212/" button\_type="ap-outline-bttn" button\_color="ap-white-bttn" button\_align="ap-align-none"\]INSCREVA-SE\[/ap\_button\]
+"http://taffarel55.byethost18.com/ps20212/" INSCREVA-SE

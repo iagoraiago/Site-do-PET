@@ -15,8 +15,6 @@ O _b__ackup_ ou cópia de segurança é uma medida de segurança a qual consiste
 
 Ressalta-se que essa medida deve ser feita fora do ambiente original com o uso de cds, pen-drives, hds externos, nuvem.
 
- 
-
 ![Backup do computador pelo HD externo](images/backup5.jpg)
 
 ## **Formas de** **_backup_**
@@ -28,8 +26,6 @@ Se o _backup_ for feito na forma quente, o sistema poderá permanecer _online_, 
 #### **Fria (****_cold_****)**
 
 Enquanto que, se a cópia de segurança for feita da forma fria, seu sistema deve ficar _off-line_ para a realização das suas cópias de segurança sem que haja a intervenção de algum usuário acessando o sistema.
-
- 
 
 ## **Arquivamento**
 
@@ -51,15 +47,13 @@ Por conseguinte, o marcador de arquivamento ou arquivo morto será exibido:
 
 #### **Simples (cópia)**
 
-No _backup_ simples, ocorre a gravação das pastas e dos arquivos selecionados, mas não há a marcação deles como arquivos que passaram pela cópia de segurança. Ou seja, seu atributo de arquivo morto não é desmarcado (não limpa os marcadores de arquivamento). 
+No _backup_ simples, ocorre a gravação das pastas e dos arquivos selecionados, mas não há a marcação deles como arquivos que passaram pela cópia de segurança. Ou seja, seu atributo de arquivo morto não é desmarcado (não limpa os marcadores de arquivamento).
 
 Esse tipo de _backup_ apresenta o aspecto positivo de não afetar as outras operações de cópia de segurança. Com isso, é possível executá-lo entre _backups_ normal e incremental, por exemplo.Todavia, ele não é capaz de fazer compactação nem controlar os erros. Além disso, a sua operação é muito demorada, ocupa muito espaço e não faz a alteração dos atributos dos arquivos.
 
- 
-
 #### **Normal (completo, total, global ou _full_)**
 
-O _backup_ normal copia todos os arquivos selecionados e faz a marcação deles como arquivos que passaram pela cópia de segurança. Assim, seu atributo de arquivo é desmarcado (limpa os marcadores de arquivamento). 
+O _backup_ normal copia todos os arquivos selecionados e faz a marcação deles como arquivos que passaram pela cópia de segurança. Assim, seu atributo de arquivo é desmarcado (limpa os marcadores de arquivamento).
 
 Ele também pode ser chamado de _backup_ completo, pois permite que, somente com a cópia mais recente do arquivo, seja possível restaurar todos os arquivos. Por causa dessa característica, sua presença é exigida para a recuperação dos arquivos. Além do mais, ele deve ser o primeiro a ser feito e é executado quando ocorre a criação de um conjunto de _backups_, sendo complementado pelas outras cópias de segurança.
 
@@ -74,8 +68,6 @@ Ao ser executado, o _backup_ diário copia todos os arquivos selecionados que so
 Ele grava arquivos e pastas, criados ou alterados na pasta referente ao _backup_, compacta os dados, controla os erros, gasta menos tempo e espaço. Apesar disso, há o risco de que os dados gravados em um mesmo dia possam ser perdidos.
 
 O diário gasta menos tempo e espaço, mas os dados, gravados no mesmo dia, podem ser perdidos dependendo do horário em que seja feita a cópia de segurança.
-
- 
 
 #### **Diferencial**
 

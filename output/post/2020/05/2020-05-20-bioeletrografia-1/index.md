@@ -44,8 +44,6 @@ Trinta anos depois, em 1939, o eletrotécnico russo, Semyon Davidovich Kirlian, 
 
 _Figura 4 – Fotografia de Semyon D. Kirlian e sua esposa Valentina K. Kirlian_
 
- 
-
 ![](images/541.jpg)
 
 _Figura 5 – Descobertas Psíquicas Atrás da Cortina Férrea. Editora Cultrix, 3ª Edição, 1980._
@@ -54,14 +52,14 @@ Entre 1970 e 1980 aconteceu um movimento de construção das “**Máquinas de K
 
 ![](images/Capturar.jpg)
 
-_Figura 6 – Máquina padrão Newton Milhomens (Brasil)_ 
+_Figura 6 – Máquina padrão Newton Milhomens (Brasil)_
 
 Pelo fato do efeito observado se tratar de uma aura luminosa fascinante, discussões voltadas para o espiritismo, saúde mental e saúde física eram recorrentes. É possível constatar isso observando-se as pesquisas publicadas pelo mundo. É durante este período de 1987 a 1995, que há o crescimento exponencial de artigos científicos, teses de pós-graduação e centenas de livros publicados, em diversos países, inclusive no Brasil, como:
 
-- No Brasil, na revista do Hospital das Forças Armadas, o artigo _“Diagnóstico Oncológico Kirliangráfico”_, dos Drs. Hélio Grott e Júlio Grott, afirma que era possível diagnosticar a existência de câncer – de qualquer natureza – a partir da observação dos detalhes da Kirliangrafia em seres humanos; 
-- Na Inglaterra, a Dra. Rosemary Steel, pioneira na pesquisa Kirliangráfica, utiliza a máquina de Kirlian do padrão Peter Mandel e apresenta a _“Pesquisa Kirliangrafica com pacientes sofrendo de enxaqueca”_; 
-- Também no Brasil, o Dr. Manoel Augusto Sperb Bacellar apresenta o trabalho _“Resultados da utilização da kirliangrafia no dia a dia em clínica psiquiátrica”_; 
-- Na Alemanha, o Dr. Peter Mandel, engenheiro e físico, realiza pesquisas tirando kirliangrafias para diagnosticar problemas de saúde orgânica, por meio dos pontos da acupuntura chinesa. 
+- No Brasil, na revista do Hospital das Forças Armadas, o artigo _“Diagnóstico Oncológico Kirliangráfico”_, dos Drs. Hélio Grott e Júlio Grott, afirma que era possível diagnosticar a existência de câncer – de qualquer natureza – a partir da observação dos detalhes da Kirliangrafia em seres humanos;
+- Na Inglaterra, a Dra. Rosemary Steel, pioneira na pesquisa Kirliangráfica, utiliza a máquina de Kirlian do padrão Peter Mandel e apresenta a _“Pesquisa Kirliangrafica com pacientes sofrendo de enxaqueca”_;
+- Também no Brasil, o Dr. Manoel Augusto Sperb Bacellar apresenta o trabalho _“Resultados da utilização da kirliangrafia no dia a dia em clínica psiquiátrica”_;
+- Na Alemanha, o Dr. Peter Mandel, engenheiro e físico, realiza pesquisas tirando kirliangrafias para diagnosticar problemas de saúde orgânica, por meio dos pontos da acupuntura chinesa.
 
 Em 1995, com o intuito de sistematizar o efeito Kirlian, na Rússia, o Dr. Konstantin Korotkov, PhD em física, (Figura 7) liderando uma equipe de pesquisadores da Universidade Estatal de São Petersburgo chegou no modelo kirliangráfico. Este modelo explica muito bem tudo que se pode notar no efeito e foi considerado como sendo a mais completa explicação da kirliangrafia até hoje apresentada. Ele e a sua equipe chegaram à conclusão de que o halo luminoso que aparece em torno dos corpos, numa foto Kirlian, é a visualização da ionização dos gases e vapores (“Gás Discharge Visualization”) através da exposição a descarga de alta voltagem e alta frequência nas máquinas de Kirlian. No decorrer desta pesquisa, no ano de 1999, a técnica da Kirliangrafia foi reconhecida pelo Ministério da Saúde da Federação Russa e, no ano 2000, pela Academia de Ciências da Rússia, sendo recomendada nas instituições de saúde como instrumento auxiliar de diagnóstico oncológico e psicológico.
 
@@ -71,27 +69,8 @@ _Figura 7 –  Dr. Konstantin Korotkov_
 
 Atualmente, as pesquisas sobre a Kirliangrafia, em sua maioria, ainda seguem na área da bioenergia humana, contudo, cada vez mais apresenta-se em outras aplicações. Isto pode ser exemplificado pela a linha de pesquisa explorada no canal do Youtube “Plasma Channel”, que tenta comprovar a eficácia da máquina de kirlian na esterilização instantânea das mãos. O vídeo com mais explicações pode ser encontrado no link: [https://www.youtube.com/watch?v=y61ulskoGnI](https://www.youtube.com/watch?v=y61ulskoGnI).
 
- 
-
-#MistériosdaEngenharia #Tecnologia #Pesquisa
-
-![Josias Lima](images/josias.jpg)
-
-### [Josias Lima](http://www.peteletrica.eng.ufba.br/2017/josias-lima/)
-
-- [Facebook](FACEBOOK-LINK "Facebook")
-- [GooglePlus](GOOGLEPLUS-LINK "GooglePlus")
-- [Twitter](TWITTER-LINK "Twitter")
-- [Linkedin](LINKEDIN-LINK "Linkedin")
-
-Técnico em eletromecânica formado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Simões Filho, apaixonado por ensino, pesquisa e extensão. Também dá uma de palestrante nas horas vagas.
-
-[Leia mais sobre o autor](http://www.peteletrica.eng.ufba.br/2017/josias-lima/)
-
-* * *
+# MistériosdaEngenharia #Tecnologia #Pesquisa
 
 ### Quer ficar ligado nos nossos novos artigos?
 
 Cadastre-se para não perder mais!
-
-\[sibwp\_form id=2\]
